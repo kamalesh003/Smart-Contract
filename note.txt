@@ -1,0 +1,4 @@
+vyper EventManagement.vy
+vyper -f abi EventManagement.vy > compiled.json
+
+
