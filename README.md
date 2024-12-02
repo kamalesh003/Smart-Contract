@@ -129,6 +129,3 @@ Make sure to set the `max_members` parameter when deploying to control the maxim
 
 ---
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
