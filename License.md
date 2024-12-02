@@ -1,6 +1,6 @@
 # Commercial License
 
-Copyright (c) [2024] [Kamalesh]. All Rights Reserved.
+Copyright (c) [2024] [Kamalesh Pandian]. All Rights Reserved.
 
 ## License Terms
 
